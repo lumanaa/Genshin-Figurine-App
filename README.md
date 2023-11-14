@@ -1,4 +1,4 @@
-# groceryapp
+# genshin figurine flutter shop app
 
 A simple figurine shop app using Flutter with provider.
 

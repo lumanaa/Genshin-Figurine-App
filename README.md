@@ -1,6 +1,6 @@
 # groceryapp
 
-A new Flutter project.
+A simple figurine shop app using Flutter with provider.
 
 ## Getting Started
 
